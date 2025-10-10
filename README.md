@@ -16,7 +16,7 @@
 
 **STM 32 Projects** -
 
-**Python Projects** - Puzzle Game,
+**Python Projects** - Puzzle Game,Labs,
 
 ---------------------------
 
