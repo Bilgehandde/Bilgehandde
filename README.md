@@ -1,11 +1,27 @@
-### Hi there 👋
+### Hi , I'm Bilgehan
 
-I'm Bilgehan,Welcome to my GitHub coding escapade! 
-I may not be the best,but my code is uniquely quirky.Explore freely! 💻
-Here's a bit about me: 
+🎓️**Electronics Engineering Student** at **Gebze technical University**
 
-- 👀 I’m interested in Tech,motosports,football,software.
-- 🌱 I’m currently learning Python,C++,C,C# at Udemy and University.
+- 👀 I’m interested in **FPGA Desing**,**Embedded System**, and **Digital Logic**.
+- ⚙️ Currently working on **Basys 3(Systemverilog)** and **Stm32 (C & Assembley)** Projects.
+
+---------------------------
+## Projects 
+
+**FGPA Projcets** -
+
+**Logic Circuits Lab** -
+
+**Data Structures** -
+
+**STM 32 Projects** -
+
+**Python Projects** - Puzzle Game,
+
+---------------------------
+
+### Languages & Tools
+C,Python,Systemverilog,VHDL,Vivado,STM32CubeIDE,Linux
+
 - 📫 How to reach me: bilgehandde@gmail.com or linkedin (link is in my profile)
-
 - Feel free to explore my repositories and join me in my coding adventures! 💻✨
