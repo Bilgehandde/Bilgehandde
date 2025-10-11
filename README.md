@@ -10,13 +10,13 @@
 
 **FGPA Projcets** -
 
-**Logic Circuits Lab** -
+**Logic Circuits Lab** - Digital circuit designs in SystemVerilog, including combinational logic, sequential circuits, FSMs, and a PWM generator.
 
 **Data Structures** -
 
 **STM 32 Projects** -
 
-**Python Projects** - Puzzle Game,Labs,
+**Python Projects** - Puzzle Game,Labs.
 
 ---------------------------
 
