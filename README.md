@@ -12,7 +12,7 @@
 
 **Logic Circuits Lab** - Digital circuit designs in SystemVerilog, including combinational logic, sequential circuits, FSMs, and a PWM generator.
 
-**Data Structures** -
+**Data Structures** - Linked Lists, Trees, Sorting Algorithms in C
 
 **STM 32 Projects** -
 
