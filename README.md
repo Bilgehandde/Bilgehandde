@@ -8,7 +8,7 @@
 ---------------------------
 ## Projects 
 
-**FGPA Projcets** - LED Blinker & Clock Divider , Button Debouncer + Edge Detector, 7-Segment Display Driver, FSM, Protocol, and Data Flow, UART Transmitter/Receiver
+**FGPA Projcets** - LED Blinker & Clock Divider , Button Debouncer + Edge Detector, 7-Segment Display Driver, UART Transmitter/Receiver
 
 **Logic Circuits Lab** - Digital circuit designs in SystemVerilog, including combinational logic, sequential circuits, FSMs, and a PWM generator...
 
