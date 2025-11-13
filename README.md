@@ -8,15 +8,15 @@
 ---------------------------
 ## Projects 
 
-**FGPA Projcets** -
+**FGPA Projcets** - LED Blinker & Clock Divider , Button Debouncer + Edge Detector, 7-Segment Display Driver, FSM, Protocol, and Data Flow, UART Transmitter/Receiver
 
-**Logic Circuits Lab** - Digital circuit designs in SystemVerilog, including combinational logic, sequential circuits, FSMs, and a PWM generator.
+**Logic Circuits Lab** - Digital circuit designs in SystemVerilog, including combinational logic, sequential circuits, FSMs, and a PWM generator...
 
-**Data Structures** - Linked Lists, Trees, Sorting Algorithms in C
+**Data Structures** - Linked Lists, Trees, Sorting Algorithms in C...
 
-**STM 32 Projects** -
+**STM 32 Projects** - Assambly Delay Routine, C LED Toggle, C LED Button Input, Night Rider Animation...
 
-**Python Projects** - Puzzle Game,Labs.
+**Python Projects** - Puzzle Game,Labs...
 
 ---------------------------
 
