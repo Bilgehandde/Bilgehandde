@@ -8,7 +8,7 @@
 ---------------------------
 ## Projects 
 
-**FGPA Projcets** - LED Blinker & Clock Divider , Button Debouncer + Edge Detector
+**FGPA Projcets** - RISCV-CV32E40P-Basys3-SoC , LED Blinker & Clock Divider , Button Debouncer + Edge Detector
 
 **Logic Circuits Lab** - Digital circuit designs in SystemVerilog, including combinational logic, sequential circuits, FSMs, and a PWM generator...
 
