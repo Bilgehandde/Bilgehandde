@@ -21,7 +21,7 @@
 ---------------------------
 
 ### Languages & Tools
-C,Python,Systemverilog,VHDL,Vivado,STM32CubeIDE,Linux,LTspice,Altium
+C,Python,Systemverilog,VHDL,Vivado,STM32CubeIDE,Linux,LTspice
 
 - 📫 How to reach me: bilgehandde@gmail.com or linkedin (link is in my profile)
 - Feel free to explore my repositories and join me in my coding adventures! 💻✨
