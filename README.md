@@ -1,27 +1,32 @@
-### Hi , I'm Bilgehan
+### Hi, I'm Bilgehan 👋
 
-🎓️**Electronics Engineering Student** at **Gebze technical University**
+Electronics Engineering student at **Gebze Technical University** and part-time **Digital Design Engineer** at **ANKASYS**.
+I work on RTL design and verification with SystemVerilog on FPGAs, and I also have experience with GNSS systems.
 
-- 👀 I’m interested in **FPGA Desing**,**Embedded System**, and **Digital Logic**.
-- ⚙️ Currently working on **Basys 3(Systemverilog)** and **Stm32 (C & Assembley)** Projects.
+---
 
----------------------------
-## Projects 
+## Featured project
 
-**FGPA Projcets** - cv32e40p_rtl_soc , LED Blinker & Clock Divider , Button Debouncer + Edge Detector
+**[cv32e40p_rtl_SoC](https://github.com/Bilgehandde/cv32e40p_rtl_SoC)** — a RISC-V System-on-Chip built around the CV32E40P core on an Artix-7 FPGA (Basys 3). Pure RTL design with a custom AXI4-Lite interconnect, memory-mapped peripherals and a QSPI bootloader written in Assembly.
 
-**Logic Circuits Lab** - Digital circuit designs in SystemVerilog, including combinational logic, sequential circuits, FSMs, and a PWM generator...
+## Currently working on
 
-**Data Structures** - Linked Lists, Trees, Sorting Algorithms in C...
+- An int8 CNN accelerator for keyword spotting, integrated into the RISC-V SoC and verified on hardware *(repository to be published later)*
 
-**STM 32 Projects** - Assambly Delay Routine, C LED Toggle, C LED Button Input, Night Rider Animation...
+## Other projects
 
-**Python Projects** - Puzzle Game,Labs...
+| Repository | Description |
+|---|---|
+| [FPGA-Projects](https://github.com/Bilgehandde/FPGA-Projects) | FPGA designs in SystemVerilog and Vivado: basic modules, FSMs and communication protocols |
+| [Logic-Circuit-Labs](https://github.com/Bilgehandde/Logic-Circuit-Labs) | Combinational and sequential circuits, FSMs and a PWM generator in SystemVerilog |
+| [stm32f103-baremetal-line-follower](https://github.com/Bilgehandde/stm32f103-baremetal-line-follower) | Bare-metal line follower robot on STM32F103 with register-level GPIO, PWM and ADC drivers |
+| [STM32-Projects](https://github.com/Bilgehandde/STM32-Projects) | STM32F103 labs in Assembly and register-level C |
+| [Data-Structures](https://github.com/Bilgehandde/Data-Structures) | Linked lists, trees and sorting algorithms in C |
 
----------------------------
+## Languages & tools
 
-### Languages & Tools
-C,Python,Systemverilog,Vivado,STM32CubeIDE,Linux,LTspice
+SystemVerilog · C · Python · MATLAB · Assembly · Xilinx Vivado · STM32CubeIDE · Linux · LTspice
 
-- 📫 How to reach me: bilgehandde@gmail.com or linkedin (link is in my profile)
-- Feel free to explore my repositories and join me in my coding adventures! 💻✨
+## Contact
+
+📫 bilgehandde@gmail.com · LinkedIn (linked in my profile)
